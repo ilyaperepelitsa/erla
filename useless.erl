@@ -9,6 +9,6 @@ add(A,B) ->
 hello() ->
   io:format("Hello, world!~n").
 
-greet_and
+greet_and_add_two(X)
 %% Shows greetings.
 %% io:format/1 is the standard function used to output text.
