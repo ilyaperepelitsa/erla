@@ -5,4 +5,4 @@
 
 
 
-add(A,B)
+add(A,B) ->
