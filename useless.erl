@@ -9,4 +9,5 @@ add(A,B) ->
   A + B.
 
 
-%%Shows greetings
+%%Shows greetings.
+%%
