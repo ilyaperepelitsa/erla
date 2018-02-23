@@ -10,4 +10,4 @@ add(A,B) ->
 
 
 %% Shows greetings.
-%% io:format/1 is the standard fucntion used to output 
+%% io:format/1 is the standard fucntion used to output text.
