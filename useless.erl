@@ -10,4 +10,4 @@ add(A,B) ->
 
 
 %% Shows greetings.
-%% io:format
+%% io:format/1 
