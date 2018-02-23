@@ -11,6 +11,6 @@ hello() ->
 
 greet_and_add_two(X) ->
   hello(),
-  
+  add()
 %% Shows greetings.
 %% io:format/1 is the standard function used to output text.
