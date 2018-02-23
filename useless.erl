@@ -1,6 +1,6 @@
 -module(useless).
 
--export([add/2, hell])
+-export([add/2, hello/0])
 
 
 add(A,B) ->
