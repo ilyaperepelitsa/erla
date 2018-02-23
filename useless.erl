@@ -7,6 +7,7 @@ add(A,B) ->
   A + B.
 
 hello() ->
+  io:format
 
 %% Shows greetings.
 %% io:format/1 is the standard function used to output text.
