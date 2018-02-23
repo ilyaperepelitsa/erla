@@ -3,7 +3,7 @@
 -export([add/2, hello/0])
 
 
-add(A,B) -> % pewpe
+add(A,B) -> % pewpewpew
   A + B.
 
 hello() ->
