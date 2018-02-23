@@ -1,1 +1,2 @@
 -module(useless).
+-ex
