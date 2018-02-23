@@ -1,2 +1,2 @@
 -module(useless).
--ex
+-export([add/2])
