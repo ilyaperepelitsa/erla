@@ -6,7 +6,6 @@
 add(A,B) ->
   A + B.
 
-add
 hello() ->
   io:format("Hello, world!~n").
 
