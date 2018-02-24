@@ -1,5 +1,5 @@
 -module(useless).
-
+% putting flags 
 
 % -import(io, [format/1]).
 -export([add/2, hello/0, greet_and_add_two/1]).
