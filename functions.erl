@@ -1,2 +1,2 @@
 -module(functions).
--compile
+-compile(exp)
