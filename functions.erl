@@ -3,4 +3,4 @@
 
 
 head([H|_]) -> H.
-second([_,X|_])
+second([_,X|_]) -> 
