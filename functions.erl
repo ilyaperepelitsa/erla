@@ -1,2 +1,2 @@
 -module(functions).
--compile(export_all). Repl
+-compile(export_all). % 
