@@ -1,6 +1,6 @@
 -module(useless).
 % putting flags into the module code
-% 
+% -comp
 
 % -import(io, [format/1]).
 -export([add/2, hello/0, greet_and_add_two/1]).
