@@ -1,1 +1,1 @@
--module(functi)
+-module(functions).
