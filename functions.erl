@@ -1,2 +1,2 @@
 -module(functions).
--compile(export_all). % replace with 
+-compile(export_all). % replace with -export
