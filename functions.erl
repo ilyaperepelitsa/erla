@@ -2,4 +2,4 @@
 -compile(export_all). % replace with -export() later
 
 
-head([H|_]) 
+head([H|_]) -> H.
