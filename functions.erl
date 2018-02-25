@@ -19,4 +19,4 @@ valid_time(_) ->
 
 
 old_enough(X) when X >= 16 -> true;
-old_enough
+old_enough(_)
