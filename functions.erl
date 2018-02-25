@@ -12,4 +12,4 @@ same(_, _) ->
   false.
 
 valid_time({Date = {Y, M, D}, Time = {H, Min, S}}) ->
-  io:format("The Date tuple")
+  io:format("The Date tuple (~p)")
