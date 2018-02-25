@@ -18,5 +18,6 @@ valid_time(_) ->
   io:format("Stop feeding me wrong data!~n").
 
 
-old_enough(X) when X >= 16, X=< 104 -> true;
+old_enough(X) when X >= 16, X=< 104 ->
+  true;
 old_enough(_) -> false.
