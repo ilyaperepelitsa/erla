@@ -5,4 +5,4 @@
 head([H|_]) -> H.
 second([_,X|_]) -> X.
 
-same
+same(X, X)
