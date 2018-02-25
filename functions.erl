@@ -25,4 +25,4 @@ old_enough(_) ->
 
 wrong_age(X) when X <16; X > 104->
   true;
-wrong_age
+wrong_age(_) 
