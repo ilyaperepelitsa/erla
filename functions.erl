@@ -7,4 +7,4 @@ second([_,X|_]) -> X.
 
 same(X, X) ->
   true;
-same(_,)
+same(_, _) -> 
