@@ -11,4 +11,4 @@ same(X, X) ->
 same(_, _) ->
   false.
 
-valid_time
+valid_time({Date })
