@@ -23,4 +23,5 @@ old_enough(X) when X >= 16, X=< 104 ->
 old_enough(_) ->
   false.
 
-wrong_age(X) when X <16; X > 104
+wrong_age(X) when X <16; X > 104->
+  true;
