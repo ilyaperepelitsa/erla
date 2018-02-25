@@ -18,4 +18,4 @@ valid_time(_) ->
   io:format("Stop feeding me wrong data!~n").
 
 
-old
+old_enough(X) when 
