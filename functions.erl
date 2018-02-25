@@ -11,4 +11,5 @@ same(X, X) ->
 same(_, _) ->
   false.
 
-valid_time({Date = {Y, M, D}, Time = {H, Min, S}})
+valid_time({Date = {Y, M, D}, Time = {H, Min, S}}) ->
+  io:format
