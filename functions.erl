@@ -12,4 +12,5 @@ same(_, _) ->
   false.
 
 valid_time({Date = {Y, M, D}, Time = {H, Min, S}}) ->
-  io:format("The Date tuple (~p) says today is ~p/~p/~p,~n", [Date, Y, M, D])
+  io:format("The Date tuple (~p) says today is ~p/~p/~p,~n", [Date, Y, M, D]),
+  
